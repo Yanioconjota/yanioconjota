@@ -1,4 +1,4 @@
-### **Hello there** 👋
+### **Hello there** 🧔👋
 
 🔭 I’m currently working on _Quiero_ for _Baufest_ and _Banco Galicia_  
 🌱 I’m currently learning more and more _Angular_  
