@@ -1,7 +1,6 @@
 ### **Hello there** 🧔👋
 
-🔭 I’m currently working as a _front-end developer_ at _GlobalLogic_  
-🌱 I’m currently learning _ReactJS_ and honing my _Angular_ skills  
+🔭 I’m currently working as a _front-end developer_ at _GlobalLogic_
 💬 Ask me about _web design_ and I'll try to help you  
 😄 Fun fact: _I'm a good inpersonator_  
 🔧 Skills: Advanced English level | SCSS | Angular | Typescript | C# | SQL
