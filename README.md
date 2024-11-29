@@ -3,7 +3,7 @@
 🔭 I’m currently working as a _front-end developer_ at _GlobalLogic_  
 💬 Ask me about _web design_ and I'll try to help you  
 😄 Fun fact: _I'm a good inpersonator_  
-🔧 Skills: Advanced English level | SCSS | Angular | Typescript | C# | SQL
+🔧 Skills: Advanced English level |  Angular | Typescript | NestJs | C# | SQL | Docker
 
 <!--
 **Yanioconjota/yanioconjota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
