@@ -23,9 +23,9 @@ Front-End/UI Developer with 6+ years of experience building user interfaces usin
 ### **ZS Associates** – *Senior Front-End Software Engineer*  
 **Jan 2025 – Present** | Buenos Aires, Argentina
 
-- Developed and audited new features in an Angular application, ensuring adherence to best practices.
-- Documented components using Storybook and wrote interaction tests to improve usability.
-- Used Jest for unit and behavioral testing to ensure high code quality and user experience consistency.
+- Develop and audit new features in an Angular application, ensuring adherence to best practices.
+- Document components using Storybook and write interaction tests to improve usability.
+- Jest for unit and behavioral testing to ensure high code quality and user experience consistency.
 
 ### **GlobalLogic Latam** – *Front-End Developer*  
 **Aug 2021 – Jan 2025** | Buenos Aires, Argentina
